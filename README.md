@@ -7,6 +7,7 @@
 ### Library
 micromapST  
 tidyverse  
+plotrix  
 
 ### References
 Figure .Rental Vacancy Rate Graph,July 26 2018,  
