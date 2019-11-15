@@ -5,7 +5,7 @@
 
 ### Redesign
 <img width="320" height="130" src="https://github.com/hwyu99/Housing-Vacancies-and-Homeownership-Visualization-Redesign-Project/blob/master/2.png"/> 
-<img width="400" height="600" src="https://github.com/hwyu99/Housing-Vacancies-and-Homeownership-Visualization-Redesign-Project/blob/master/3.png"/> 
+<img width="400" height="600" src="https://github.com/hwyu99/Housing-Vacancies-and-Homeownership-Visualization-Redesign-Project/blob/master/3.png"/>  
 
 ### Library
 micromapST  
